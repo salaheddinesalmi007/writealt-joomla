@@ -18,7 +18,7 @@ Native Joomla administrator component for generating accessible alt text and opt
 
 ## Getting started
 
-1. Get your API key at <https://writealt.com/dashboard#settings/ap>.
+1. Get your API key at <https://writealt.com/dashboard#settings/api>.
 2. In **Components -> WriteAlt**, paste your API key, choose the optimization threshold, and select **Save settings**.
 3. Select **Refresh images**. The package enables **Content - WriteAlt article integration** automatically, and WriteAlt lists local images found in article intro text, full text, and the native Intro/Full Images fields.
 4. In an article's **Images and Links** tab, select an image and click **Generate with WriteAlt** beside its native alt-text field. Save the article to persist the generated description.
